@@ -3,7 +3,7 @@
   "title": "Menagerie of Adventures #3",
   "description": "Welcome to Menagerie of Adventures #3, a collection of five 1st- to 9th-level 5E adventures. \nThese adventures include The God Wheel, where the party discovers a legendary stone wheel cast aside by a divine smith, The Jubile Tower, involving a village with a dark secret, Sozrinoth’s Temple, an adventure where the heroes must find an artifact and return it to the lair of Sozrinoth the dragon, and more.",
   "url": "https://www.drivethrurpg.com/product/444470/Menagerie-of-Adventures-3-Foundry-VTT",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/juanferrer/menagerie-press/main/menagerie-of-adventures-3/module.json",
   "protected": true,
   "authors": [
     {
