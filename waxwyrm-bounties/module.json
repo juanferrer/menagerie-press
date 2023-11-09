@@ -1,0 +1,35 @@
+{
+  "id": "waxwyrm-bounties",
+  "title": "The Waxwyrm Bounties",
+  "description": "A Menagerie Press 5e adventure for 3rd-5th level characters. \nA monstrous raid has left the town of Ashwood in ruins. The desperate townsfolk have placed bounties on the creatures leading the raiders, hoping heroes and mercenaries will come to save what is left of Ashwood. The Waywyrm Bounties features five adventures that are playable individually or as a modular mini campaign.",
+  "url": "",
+  "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/waxwyrm-bounties/module.json",
+  "protected": true,
+  "authors": [
+    {
+      "name": "Ferrer"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
+  },
+  "packs": [
+    {
+      "label": "The Waxwyrm Bounties",
+      "name": "the-waxwyrm-bounties",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "path": "packs/the-waxwyrm-bounties"
+    }
+  ]
+}
